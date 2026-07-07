@@ -1,0 +1,27 @@
+{
+  "identifier" : "Pawnlog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "pawnlog.pro.unlock",
+      "localizations" : [
+        {
+          "description" : "Redemption reminders and interest cost calculator",
+          "displayName" : "Pawnlog Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "pawnlog.pro.unlock",
+      "referenceName" : "Pawnlog Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
